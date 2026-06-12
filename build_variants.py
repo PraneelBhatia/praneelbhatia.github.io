@@ -6,7 +6,7 @@ Outputs: robotics.html (robotics.praneelbhatia.com), agents.html (agents.praneel
 """
 import re
 
-SRC = "index.html"
+SRC = "instrument.html"
 
 GENERAL_SUBLINE = "T-shaped: breadth across embodied AI, agentic development, and enterprise XR; depth into whichever one the problem demands. Drawn to greenfield projects and cold-starts into new tools. The proof: a robot arm that corrects itself mid-task from a person's brain signals, with no retraining."
 GENERAL_CRED = "NAT 2026 FIRST AUTHOR &middot; 4 PUBLICATIONS &middot; 2 PATENT FILINGS &middot; B.SC. MECHATRONICS (1.7)"
